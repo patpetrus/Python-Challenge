@@ -1,4 +1,5 @@
 
+
 # total number of months in dataset DONE
 # net total DONE
 # average change DONE
@@ -45,4 +46,3 @@ with open(budget_data_csv) as csvfile:
     print(f"Greatest Decrease in Profits: " + min_list[0], min_list[1])
 
 # --------------------------------------------------------------------
-
